@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-repository/isra-card-autocomplete-repository.csproj": {}
+  },
+  "projects": {
+    "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/isra-card-autocomplete-entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/isra-card-autocomplete-entity.csproj",
+        "projectName": "isra-card-autocomplete-entity",
+        "projectPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/isra-card-autocomplete-entity.csproj",
+        "packagesPath": "/Users/leoferrer/.nuget/packages/",
+        "outputPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/leoferrer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-interface-repository/isra-card-autocomplete-interface-repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-interface-repository/isra-card-autocomplete-interface-repository.csproj",
+        "projectName": "isra-card-autocomplete-interface-repository",
+        "projectPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-interface-repository/isra-card-autocomplete-interface-repository.csproj",
+        "packagesPath": "/Users/leoferrer/.nuget/packages/",
+        "outputPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-interface-repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/leoferrer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/isra-card-autocomplete-entity.csproj": {
+                "projectPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/isra-card-autocomplete-entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-repository/isra-card-autocomplete-repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-repository/isra-card-autocomplete-repository.csproj",
+        "projectName": "isra-card-autocomplete-repository",
+        "projectPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-repository/isra-card-autocomplete-repository.csproj",
+        "packagesPath": "/Users/leoferrer/.nuget/packages/",
+        "outputPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/leoferrer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/isra-card-autocomplete-entity.csproj": {
+                "projectPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/isra-card-autocomplete-entity.csproj"
+              },
+              "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-interface-repository/isra-card-autocomplete-interface-repository.csproj": {
+                "projectPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-interface-repository/isra-card-autocomplete-interface-repository.csproj"
+              },
+              "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-utils/isra-card-autocomplete-utils.csproj": {
+                "projectPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-utils/isra-card-autocomplete-utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-utils/isra-card-autocomplete-utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-utils/isra-card-autocomplete-utils.csproj",
+        "projectName": "isra-card-autocomplete-utils",
+        "projectPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-utils/isra-card-autocomplete-utils.csproj",
+        "packagesPath": "/Users/leoferrer/.nuget/packages/",
+        "outputPath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-utils/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/leoferrer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

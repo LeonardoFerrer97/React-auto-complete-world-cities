@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqgUeficmZ2E3OEEUU3pbwQ4uudAhz8Kp4OkhiuGu5bgnc8xiFwTUIdbhVkjTSTJS6fKzbhwjMin9seipqyceA==",
+  "success": true,
+  "projectFilePath": "/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-repository/isra-card-autocomplete-repository.csproj",
+  "expectedPackageFiles": [
+    "/Users/leoferrer/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/leoferrer/.nuget/packages/npgsql/6.0.3/npgsql.6.0.3.nupkg.sha512",
+    "/Users/leoferrer/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

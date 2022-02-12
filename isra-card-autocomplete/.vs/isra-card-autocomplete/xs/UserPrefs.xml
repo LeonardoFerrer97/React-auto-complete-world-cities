@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{1EB3278B-DD2A-42ED-BEEE-2305C76C8E75}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="isra-card-autocomplete-business/WorldCitiesBusiness.cs">
+    <Files>
+      <File FileName="isra-card-autocomplete-business/WorldCitiesBusiness.cs" Line="29" Column="1" />
+      <File FileName="isra-card-autocomplete-test/UnitTest1.cs" Line="34" Column="17" />
+      <File FileName="isra-card-autocomplete-utils/Queries/WorldCitiesQueries.cs" Line="6" Column="254" />
+      <File FileName="isra-card-autocomplete/appsettings.json" Line="8" Column="178" />
+      <File FileName="isra-card-autocomplete-repository/WorldCitiesRepository.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="isra-card-autocomplete" expanded="True">
+            <Node name="isra-card-autocomplete" expanded="True" />
+            <Node name="isra-card-autocomplete-business" expanded="True">
+              <Node name="WorldCitiesBusiness.cs" selected="True" />
+            </Node>
+            <Node name="isra-card-autocomplete-interface-business" expanded="True" />
+            <Node name="isra-card-autocomplete-repository" expanded="True" />
+            <Node name="isra-card-autocomplete-test" expanded="True" />
+            <Node name="isra-card-autocomplete-utils" expanded="True">
+              <Node name="Queries" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="isra-card-autocomplete" expanded="True">
+            <Node name="isra-card-autocomplete-test" expanded="True">
+              <Node name="isra_card_autocomplete_test" expanded="True">
+                <Node name="WorldCitiesBusinessTest" expanded="True">
+                  <Node name="GetWorldCitiesCannotBeNull(filter: null)" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-test/WorldCitiesBusinessTest.cs" relfile="isra-card-autocomplete-test/WorldCitiesBusinessTest.cs" line="23" column="1" />
+      <Breakpoint file="/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-test/WorldCitiesBusinessTest.cs" relfile="isra-card-autocomplete-test/WorldCitiesBusinessTest.cs" line="38" column="1" />
+      <Breakpoint file="/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-business/WorldCitiesBusiness.cs" relfile="isra-card-autocomplete-business/WorldCitiesBusiness.cs" line="29" column="1" />
+      <Breakpoint file="/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-test/WorldCitiesBusinessTest.cs" relfile="isra-card-autocomplete-test/WorldCitiesBusinessTest.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.isra-card-autocomplete PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

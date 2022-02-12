@@ -1,0 +1,16 @@
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/bin/Debug/net5.0/isra-card-autocomplete-entity.deps.json
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/bin/Debug/net5.0/isra-card-autocomplete-entity.dll
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/bin/Debug/net5.0/ref/isra-card-autocomplete-entity.dll
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/bin/Debug/net5.0/isra-card-autocomplete-entity.pdb
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/isra-card-autocomplete-entity.csproj.AssemblyReference.cache
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/isra-card-autocomplete-entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/isra-card-autocomplete-entity.AssemblyInfoInputs.cache
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/isra-card-autocomplete-entity.AssemblyInfo.cs
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/isra-card-autocomplete-entity.csproj.CoreCompileInputs.cache
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/staticwebassets/isra-card-autocomplete-entity.StaticWebAssets.Manifest.cache
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/staticwebassets/isra-card-autocomplete-entity.StaticWebAssets.xml
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/scopedcss/bundle/isra-card-autocomplete-entity.styles.css
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/isra-card-autocomplete-entity.RazorTargetAssemblyInfo.cache
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/isra-card-autocomplete-entity.dll
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/ref/isra-card-autocomplete-entity.dll
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-entity/obj/Debug/net5.0/isra-card-autocomplete-entity.pdb

@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isra-card-autocomplete", "isra-card-autocomplete\isra-card-autocomplete.csproj", "{1EB3278B-DD2A-42ED-BEEE-2305C76C8E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isra-card-autocomplete-business", "isra-card-autocomplete-business\isra-card-autocomplete-business.csproj", "{FE39D6AA-22D2-4723-96DF-1A9DD4997DF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isra-card-autocomplete-interface-business", "isra-card-autocomplete-interface-business\isra-card-autocomplete-interface-business.csproj", "{241A21FB-7C59-4474-B6F7-ECCBB3C4DFE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isra-card-autocomplete-repository", "isra-card-autocomplete-repository\isra-card-autocomplete-repository.csproj", "{8F62503E-2250-4EE3-8A41-8C9FCFA6E2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isra-card-autocomplete-interface-repository", "isra-card-autocomplete-interface-repository\isra-card-autocomplete-interface-repository.csproj", "{296CBAE5-8ACC-4DDE-B25C-D1328FEBFA26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isra-card-autocomplete-dto", "isra-card-autocomplete-dto\isra-card-autocomplete-dto.csproj", "{6C36074F-5212-44AF-9986-D86EE43E8392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isra-card-autocomplete-entity", "isra-card-autocomplete-entity\isra-card-autocomplete-entity.csproj", "{B45AEC11-ACC1-4364-B0F2-0B50E1431F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isra-card-autocomplete-utils", "isra-card-autocomplete-utils\isra-card-autocomplete-utils.csproj", "{79143A71-1594-4A08-BFBD-373145398ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isra-card-autocomplete-test", "isra-card-autocomplete-test\isra-card-autocomplete-test.csproj", "{DE85AA08-7A62-4C4A-B152-1B964908EA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB3278B-DD2A-42ED-BEEE-2305C76C8E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB3278B-DD2A-42ED-BEEE-2305C76C8E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB3278B-DD2A-42ED-BEEE-2305C76C8E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB3278B-DD2A-42ED-BEEE-2305C76C8E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE39D6AA-22D2-4723-96DF-1A9DD4997DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE39D6AA-22D2-4723-96DF-1A9DD4997DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE39D6AA-22D2-4723-96DF-1A9DD4997DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE39D6AA-22D2-4723-96DF-1A9DD4997DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241A21FB-7C59-4474-B6F7-ECCBB3C4DFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241A21FB-7C59-4474-B6F7-ECCBB3C4DFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241A21FB-7C59-4474-B6F7-ECCBB3C4DFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241A21FB-7C59-4474-B6F7-ECCBB3C4DFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F62503E-2250-4EE3-8A41-8C9FCFA6E2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F62503E-2250-4EE3-8A41-8C9FCFA6E2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F62503E-2250-4EE3-8A41-8C9FCFA6E2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F62503E-2250-4EE3-8A41-8C9FCFA6E2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296CBAE5-8ACC-4DDE-B25C-D1328FEBFA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296CBAE5-8ACC-4DDE-B25C-D1328FEBFA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296CBAE5-8ACC-4DDE-B25C-D1328FEBFA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296CBAE5-8ACC-4DDE-B25C-D1328FEBFA26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C36074F-5212-44AF-9986-D86EE43E8392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C36074F-5212-44AF-9986-D86EE43E8392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C36074F-5212-44AF-9986-D86EE43E8392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C36074F-5212-44AF-9986-D86EE43E8392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45AEC11-ACC1-4364-B0F2-0B50E1431F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45AEC11-ACC1-4364-B0F2-0B50E1431F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45AEC11-ACC1-4364-B0F2-0B50E1431F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45AEC11-ACC1-4364-B0F2-0B50E1431F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79143A71-1594-4A08-BFBD-373145398ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79143A71-1594-4A08-BFBD-373145398ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79143A71-1594-4A08-BFBD-373145398ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79143A71-1594-4A08-BFBD-373145398ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE85AA08-7A62-4C4A-B152-1B964908EA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE85AA08-7A62-4C4A-B152-1B964908EA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE85AA08-7A62-4C4A-B152-1B964908EA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE85AA08-7A62-4C4A-B152-1B964908EA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {100C43DC-1FF3-4F37-971D-CEA4658B2672}
+	EndGlobalSection
+EndGlobal

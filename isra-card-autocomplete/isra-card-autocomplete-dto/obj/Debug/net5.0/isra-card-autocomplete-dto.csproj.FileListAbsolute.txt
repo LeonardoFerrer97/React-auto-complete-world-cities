@@ -1,0 +1,15 @@
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/bin/Debug/net5.0/isra-card-autocomplete-dto.deps.json
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/bin/Debug/net5.0/isra-card-autocomplete-dto.dll
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/bin/Debug/net5.0/ref/isra-card-autocomplete-dto.dll
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/bin/Debug/net5.0/isra-card-autocomplete-dto.pdb
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/isra-card-autocomplete-dto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/isra-card-autocomplete-dto.AssemblyInfoInputs.cache
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/isra-card-autocomplete-dto.AssemblyInfo.cs
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/isra-card-autocomplete-dto.csproj.CoreCompileInputs.cache
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/staticwebassets/isra-card-autocomplete-dto.StaticWebAssets.Manifest.cache
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/staticwebassets/isra-card-autocomplete-dto.StaticWebAssets.xml
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/scopedcss/bundle/isra-card-autocomplete-dto.styles.css
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/isra-card-autocomplete-dto.RazorTargetAssemblyInfo.cache
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/isra-card-autocomplete-dto.dll
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/ref/isra-card-autocomplete-dto.dll
+/Users/leoferrer/Desktop/challenge isra card/isra-card-autocomplete/isra-card-autocomplete-dto/obj/Debug/net5.0/isra-card-autocomplete-dto.pdb
